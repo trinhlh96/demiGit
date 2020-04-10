@@ -7,6 +7,7 @@ import java.util.ArrayList;
 
 public class MainThread {
     public static void main(String[] args) {
+        System.out.println("hahahah");
 //        Article article = new Article();
 //        article.setId(6);
 //        article.setTitle("gregreg");
